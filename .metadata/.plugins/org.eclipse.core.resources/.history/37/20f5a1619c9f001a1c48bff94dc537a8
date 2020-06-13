@@ -1,0 +1,16 @@
+package com.abc.demo.model;
+
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection = "product_master")
+public class product_master {
+	
+	String material_id;
+	String description;
+	String vendor_material_id;
+	String vendor_name;
+	String packaging;
+	String sales_uom;
+	String base_uom;
+
+}

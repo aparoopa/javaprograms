@@ -1,0 +1,5 @@
+package com.abc.demo.model;
+
+public class Price {
+
+}

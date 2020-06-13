@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="RestfulWebServicesApplication"/>
+<aop-project name="xplore"/>
+<aop-project name="jpa-demo"/>
+<aop-project name="springbooth2"/>
+<aop-project name="springboot-in-10-steps"/>
+</aop-reference-model>
